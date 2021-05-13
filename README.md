@@ -4,7 +4,7 @@ I'm Shane, a graduate student at BUAA.
 - 🔭 I’m currently working on low resource utilization accelerator for CNN Training.
 
 ### 📷 My Website
-- I update my note on this blog, and show some photographs which I take.
+- I update my note on this [blog](https://ryushane.com), and show some photographs which I take.
 
 ### ⚡ Fun fact
 I am a part-time uploader on [bilibili](https://space.bilibili.com/3882240). I'd like to create some review of digital product and vlog of my daily life.
