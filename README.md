@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shane, a graduate student at BUAA.
+I'm Ryushane, a graduate student at BUAA.
 - 🔭 I’m currently working on low resource utilization accelerator for CNN Training.
 
 ### 📷 My Website
